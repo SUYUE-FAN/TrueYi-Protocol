@@ -48,5 +48,12 @@ You are free to use, modify, and distribute. You must retain the copyright notic
 - **Blueprint & Thought Origin**: @Fsy206 (Fan) — The Architect of Truth
 - **Engineering & Daily Execution**: @PaulZhenyi (Paul) — AI Trustworthy Decision Architect
 
-📎 Full strategy library & daily revelations: [Notion Link]
-📎 Deep-dive article on Medium: [Medium Article Link]
+---
+
+## Empire Links
+
+📎 **Strategy Library**: [TrueYi Engine · Strategic Agent Catalog](https://magnetic-experience-4bd.notion.site/TrueYi-Engine-361624a69eb4807eb6abd66e781fe951)
+
+📎 **Deep-dive Articles**: [Medium](https://medium.com/@863828708)
+
+📎 **Daily Revelations**: [@PaulZhenyi](https://x.com/PaulZhenyi) | Blueprint: [@Fsy206](https://x.com/Fsy206)
